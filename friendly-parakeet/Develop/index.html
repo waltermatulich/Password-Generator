@@ -29,6 +29,30 @@
         </div>
       </div>
     </div>
+
+    <div class="popupContainer" style="display: none; opacity: 0">
+      <div class="popup">
+        <div class="popupHeader">Password Options</div>
+        <p>Character types</p>
+        <ul style="list-style: none;">
+          <li><input type="checkbox" name="characterOpt" id="Lowercase">Lowercase</li>
+          <li><input type="checkbox" name="characterOpt" id="Uppercase">Uppercase</li>
+          <li><input type="checkbox" name="characterOpt" id="Numeric">Numeric</li>
+          <li><input type="checkbox" name="characterOpt" id="Special">Special</li>
+        </ul>
+        <div>
+          <p>
+            Password Length
+            <input type="number" id="passwordLength" placeholder="8-128" min="8" max="128" style="width: 50px">
+          </p>
+        </div>
+        <div class="popupAction">
+          <button id="submitOptions" >Generate Password</button>
+        </div>
+        <p class="notice" style="display: none; opacity: 0; position: absolute; bottom: 5px; left: 40%;"></p>
+      </div>
+    </div>
+    
     <script src="script.js"></script>
   </body>
 </html>
