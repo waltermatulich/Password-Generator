@@ -30,6 +30,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
+<img width="1440" alt="img" src="https://github.com/waltermatulich/Password-Generator/assets/152677493/0d72bef4-e155-4165-a04c-bde79a300a15">
 
 
 
