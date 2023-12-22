@@ -1,8 +1,8 @@
 READ ME for this project.
-This repository contains an HTML file linked with a CSS to format the style.
-JavaScript to give interchangeable commands within the inter-networking system.
+This repository contains an HTML file linked with a CSS format to style the website.
+This web application contains JavaScript to give interchangeable commands within the networking system.
 There is a screenshot of my image in the image.PNG file in this repository.
-As well as a Git Ignore with an MIT LISCENCE.
+As well as an MIT LISCENCE.
 
 User Story for the application:
 
